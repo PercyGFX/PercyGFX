@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Kelum Isuranga</h1>
 <h3 align="center">A passionate fullstack web developer from Sri Lanka</h3>
