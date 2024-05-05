@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kelum Isuranga</h1>
 <h3 align="center">A passionate fullstack web developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **NestJs**
+- 🌱 I’m currently learning **React Native** and **.NET Core**
 
 - 📫 How to reach me **isurangabtk@gmail.com**
 
