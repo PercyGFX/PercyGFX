@@ -1,15 +1,121 @@
-<h1 align="center">Hi 👋, I'm Kelum Isuranga</h1>
-<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=percygfx&label=Profile%20views&color=0e75b6&style=flat" alt="percygfx" /> </p>
+# Hey, I'm Kelum 👋
 
-- 🌱 I’m currently learning **golang**
+<a href="https://kelum.me">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineer+%C2%B7+Sri+Lanka;Go+%26+Node.js+backend+systems;Event-driven+platforms+with+Kafka;Blockchain+%26+crypto+payments;Building+tools+for+AI+coding+agents" alt="Typing intro" />
+</a>
 
-- 📫 How to reach me **hello@kelum.me**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <a href="https://kelum.me"><img src="https://img.shields.io/badge/Portfolio-kelum.me-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/kelum-isuranga/"><img src="https://img.shields.io/badge/LinkedIn-kelum--isuranga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hello@kelum.me"><img src="https://img.shields.io/badge/Email-hello@kelum.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=percygfx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
+
+---
+
+### 🧑‍💻 About me
+
+I'm a full-stack engineer with **4+ years** of experience. I started on the MERN stack and now work mostly on **Go and Node.js backends**: event-driven services, payments, and the infrastructure they run on.
+
+- 🎰 Building **real-time iGaming platforms** on Kafka-based microservices
+- ⛓️ Built a **Layer-1 blockchain in Go** from scratch, with BFT consensus and post-quantum signatures
+- 🤖 Shipping **RAG / LLM features** and building tools for AI coding agents
+- 👥 Leading an engineering team: sprint planning, code reviews, architecture
+- 🎓 BEng (Hons) Software Engineering, **First Class**, London Metropolitan University
+
+---
+
+### 🛠️ Tech stack
+
+| Area | Stack |
+|---|---|
+| **Languages** | Go, TypeScript, JavaScript, Rust |
+| **Backend** | Node.js, Express, NestJS, Go + Chi, Apache Kafka, Microservices |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis, Supabase, Pinecone, pgvector |
+| **Frontend** | React, Next.js, Tailwind CSS, Redux, React Query, shadcn/ui |
+| **Cloud & DevOps** | Docker, Kubernetes (K3s), ArgoCD, Terraform, GitHub Actions, AWS, Azure, GCP, DigitalOcean, Vercel |
+| **Monitoring** | Grafana, Prometheus |
+| **AI** | Claude Code, OpenCode, Antigravity, Codex, Cursor, MCP servers, RAG agents, OpenAI, OpenRouter |
+| **Testing** | Playwright, k6, Postman, LLM-assisted testing |
+
+---
+
+### 🚀 Open-source projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/PercyGFX/speedmeter">⚡ SpeedMeter</a></h4>
+      A network speed meter for the Windows 11 taskbar. It shows live charts, traffic history with a calendar heatmap, per-app usage, and data limits with notifications. Native and light on resources.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11" />
+      <a href="https://github.com/PercyGFX/speedmeter/releases/latest"><img src="https://img.shields.io/github/v/release/PercyGFX/speedmeter?style=flat-square&label=download" alt="Latest release" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/PercyGFX/opencode-vscode">💬 OpenCode Chat for VS Code</a></h4>
+      An unofficial chat panel for OpenCode 2 that sits in VS Code's side bar. It stays in sync with the TUI and supports session tabs, plan/auto modes, inline permission prompts, diffs, MCP servers and skills, and a live browser-activity strip.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/VS_Code_Extension-007ACC?style=flat-square" alt="VS Code" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/PercyGFX/opencode-antigravity-auth">🔐 OpenCode × Antigravity Auth</a></h4>
+      Adds an OpenCode 2 entry point to the Antigravity OAuth plugin. It includes an automatic model list, multi-account rotation, and quota limits shown in the TUI sidebar. Published on npm as <code>@percygfx/opencode-antigravity-auth</code>.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <a href="https://www.npmjs.com/package/@percygfx/opencode-antigravity-auth"><img src="https://img.shields.io/npm/v/@percygfx/opencode-antigravity-auth?style=flat-square&logo=npm" alt="npm" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/PercyGFX/open-ai-rag-w-langchain-demo">🧠 RAG with LangChain</a></h4>
+      A retrieval-augmented generation demo built with OpenAI and LangChain in TypeScript.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏗️ What I build at work
+
+> Production systems. Details are kept general for confidentiality.
+
+**🎰 Real-time iGaming platform**
+- Event-driven microservices on **Apache Kafka**, written in Go and Node.js
+- **Crypto payments**, plus KYC/AML compliance: ID verification, geolocation, and anti-fraud checks
+- Runs on Docker and **Kubernetes (K3s)** with ArgoCD GitOps, deployed across Azure, DigitalOcean and AWS
+- Grafana and Prometheus for observability, GitHub Actions for CI/CD
+
+**⛓️ Layer-1 blockchain in Go**
+- Proof-of-Stake chain built from the ground up, with **BFT consensus** among validators
+- **Post-quantum transaction signing** with Dilithium 5
+- Fast, persistent state storage on PebbleDB
+
+**🤖 AI-driven gaming experiences**
+- **RAG architecture** that lets in-game characters act on their own
+- OpenAI and DeepSeek models, with Pinecone and pgvector for retrieval
+
+---
+
+### 📊 GitHub stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PercyGFX&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+---
+
+<div align="center">
+
+Open to interesting backend, platform, and AI-tooling work · [hello@kelum.me](mailto:hello@kelum.me)
+
+</div>
