@@ -74,11 +74,11 @@ I'm a full-stack engineer with **4+ years** of experience. I started on the MERN
       <a href="https://www.npmjs.com/package/@percygfx/opencode-antigravity-auth"><img src="https://img.shields.io/npm/v/@percygfx/opencode-antigravity-auth?style=flat-square&logo=npm" alt="npm" /></a>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/PercyGFX/open-ai-rag-w-langchain-demo">🧠 RAG with LangChain</a></h4>
-      A retrieval-augmented generation demo built with OpenAI and LangChain in TypeScript.
+      <h4><a href="https://github.com/PercyGFX/datebridge">📅 datebridge</a></h4>
+      Saves, sends and shows dates correctly across frontend, backend and database, built on Temporal. It stops "saved as the day before" bugs, with adapters for pg, Drizzle, zod, Joi and Yup and support for popular date pickers. Published on npm as <code>datebridge</code>.
       <br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <a href="https://www.npmjs.com/package/datebridge"><img src="https://img.shields.io/npm/v/datebridge?style=flat-square&logo=npm" alt="npm" /></a>
     </td>
   </tr>
 </table>
