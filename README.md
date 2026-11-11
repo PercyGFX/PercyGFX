@@ -49,6 +49,20 @@ I'm a full-stack engineer with **4+ years** of experience. I started on the MERN
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h4><a href="https://github.com/PercyGFX/Portlight">📡 Portlight</a></h4>
+      A friendlier network monitor for Windows. A live map shows which apps are online and the servers they are talking to, a table explains each connection in plain words, and you get an alert the first time a new app goes online. No administrator rights, no driver.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows" />
+      <a href="https://github.com/PercyGFX/Portlight/releases/latest"><img src="https://img.shields.io/github/v/release/PercyGFX/Portlight?style=flat-square&label=download" alt="Latest release" /></a>
+      <br/><br/>
+      <a href="https://github.com/PercyGFX/Portlight"><img src="https://raw.githubusercontent.com/PercyGFX/Portlight/main/docs/screenshots/app-dark.png" alt="Portlight's window: a sidebar of apps, a live map linking Firefox through this PC and the internet to three servers, and a table of connections opening and closing" /></a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/PercyGFX/speedmeter">⚡ SpeedMeter</a></h4>
       A network speed meter for the Windows 11 taskbar. It shows live charts, traffic history with a calendar heatmap, per-app usage, and data limits with notifications. Native and light on resources.
