@@ -45,6 +45,22 @@ I'm a full-stack engineer with **4+ years** of experience. I started on the MERN
 
 ---
 
+### 🧪 TestScout — AI QA engineer
+
+> **Private, in-house project — not open source, no public repository.**
+
+**TestScout** is a QA engineer for web apps that works in a real browser. You name a feature to test; it gathers the context, drives the app with Playwright through its own MCP tools, and reports findings with the steps, a screenshot and the page state that showed them. What it checked is kept as plain Playwright tests, so the coverage lives in the repo and runs without a model.
+
+- **The tester** — logs in, navigates, submits forms, sorts and pages tables, and queries the database when a case needs it. It follows test cases, records what held and what did not, and reports only problems it can back with evidence. Findings are saved as `suspected` until a person confirms them.
+- **Guardrails outside the model** — every tool call goes through a policy engine that blocks destructive or out-of-scope requests and masks credentials in tool output. Model output is treated as untrusted; scripted checks, not the model, decide pass and fail.
+- **Real checks, not a screenshot tour** — free checks cover sideways scroll, broken images, clipped text, overlapping controls, tap targets and accessibility; a controls pass exercises sorting, pagination, search, filters, tabs, dialogs and downloads in a side tab with writes blocked.
+- **Runs and reports are plain files** — a `.testscout` workspace keeps every session's steps, findings, reports and kept tests as readable files. The local web UI shows runs, findings, step timelines and the exact test-case result next to the run status.
+- **Works with the agent you already use** — Claude Code, OpenCode, Antigravity, Codex or Gemini CLI over MCP, with a built-in loop as the baseline. A TypeScript pnpm/Turborepo workspace with a kernel, pipeline and plugins for explorers, strategies, generators and database drivers.
+
+<img src="assets/testscout-runs.png" alt="TestScout's Runs screen: a list of AI tester and scripted runs with run status and test-case results, and the selected run's step-by-step timeline" width="1360" />
+
+---
+
 ### 🚀 Open-source projects
 
 <table>
